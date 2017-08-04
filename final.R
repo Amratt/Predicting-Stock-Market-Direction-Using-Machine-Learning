@@ -5,7 +5,7 @@ library(class)
 library(tree)
 library(SDMTools)
 library(ROCR)
-setwd("~/Desktop/Data Science (Google)/Data Analytics MS/Datasets")
+
 ################ DATA EXTRACTION #######################
 getSymbols(c("A","AAL","AAP","ABBV","ABC","ABT",
              "ACN","ADBE","ADI","ADM","ADP","ADS","ADSK",
